@@ -9,7 +9,7 @@ I have been passionate about technology since childhood, leading me to pursue a 
 * 🌍  I'm based in India. Currently working from my home town Ujjain.
 * 🖥️  See my portfolio at [akshaygupta.live](http://akshaygupta.live).
 * ✉️  You can contact me at [akshaygupta.live@gmail.com](mailto:akshaygupta.live@gmail.com).
-* 🔭 I’m currently working as an Staff Engineer at [PeopleGrove](https://www.peoplegrove.com/)
+* 🔭 I’m currently working as a Senior Staff Engineer at [PeopleGrove](https://www.peoplegrove.com/)
 * 🧠  I'm learning GoLang and Rust.
 * 🤝  I'm open to collaborating on anything fun and challenging as a developer.
 * ⚡  I'm passionate about creating electronic music and occasionally taking on DJing gigs. In addition, I am an avid gamer, enjoying a wide range of games on both my PC and Playstation.
